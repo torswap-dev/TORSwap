@@ -15,7 +15,7 @@ TORSwap isn't just another regular swap tool — it's built with features most p
 - 💰 **Fiat Selling** - Sell crypto for fiat currency
 - 🔐 **Wallet Management** - Secure wallet generation and phrase export
 - 📱 **Real-time Notifications** - Live updates via Server-Sent Events (SSE)
-- 🌙 **Built-in Mixer** - Pooling and redistributing funds from multiple users to scramble the transaction history and hide the original source
+- 🌪️ **Built-in Mixer** - Pooling and redistributing funds from multiple users to scramble the transaction history and hide the original source
 - 📊 **Live Transactions** - Real-time transaction monitoring
 - 🔒 **Privacy-First** - Anonymous transactions with zero KYC, and non-custodial.
 
