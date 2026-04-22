@@ -2,8 +2,8 @@
 
 A secure, private crypto swap and sell web app built with Next.js and Python.
 
-[!\[Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge\&logo=vercel)](https://vercel.com)
-[!\[Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?style=for-the-badge\&logo=next.js)](https://nextjs.org)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge\&logo=vercel)](https://vercel.com)
+[![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?style=for-the-badge\&logo=next.js)](https://nextjs.org)
 
 ## Overview
 
