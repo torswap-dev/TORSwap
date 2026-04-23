@@ -21,9 +21,9 @@ TORSwap isn't just another regular swap tool — it's built with features most p
 
 ## Supported Cryptocurrencies
 
-### Mayor Crypto's
-- Bitcoin (BTC)
-- Ethereum (ETH)
+### Major Crypto's
+* Bitcoin (BTC)
+* Ethereum (ETH)
 * Solana (SOL)
 * Monero (XMR)
 * Litecoin (LTC)
