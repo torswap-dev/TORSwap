@@ -34,7 +34,7 @@ TORSwap isn't just another regular swap tool — it's built with features most p
 * Sui (SUI)
 * Polkadot (DOT)
 * Near Protocol (NEAR)
-* Zcash (ZEC) - Coming soon.
+* Zcash (ZEC)
 
 ### Tokens
 
