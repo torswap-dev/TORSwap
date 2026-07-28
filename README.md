@@ -12,9 +12,9 @@ TORSwap isn't just another regular swap tool — it's built with features most p
 ## Key Features
 
 - 🔄 **Crypto Swapping** - Swap between different cryptocurrencies
-- 💰 **Fiat Selling** - Sell crypto for fiat currency
+- 💰 **Crypto Selling** - Sell crypto for fiat currency
 - 🔐 **Wallet Management** - Secure wallet generation and phrase export
-- 📱 **Real-time Notifications** - Live updates via Server-Sent Events (SSE)
+- 📱 **Real-time Notifications** - Get live updates on your swap/sell status
 - 🌪️ **Built-in Mixer** - Pooling and redistributing funds from multiple users to scramble the transaction history and hide the original source
 - 📊 **Live Transactions** - Real-time transaction monitoring
 - 🔒 **Privacy-First** - Anonymous transactions with zero KYC, and non-custodial.
@@ -30,7 +30,7 @@ TORSwap isn't just another regular swap tool — it's built with features most p
 * Ripple (XRP)
 * Binance Smart Chain (BNB)
 * Tron (TRX)
-* Toncoin (TON)
+* GRAM (TON) - prev. Toncoin
 * Sui (SUI)
 * Polkadot (DOT)
 * Near Protocol (NEAR)
@@ -55,7 +55,7 @@ For support and questions:
 
 ## Disclaimer
 
-This software is provided for educational and research purposes. Users are responsible for compliance with local laws and regulations regarding cryptocurrency usage.
+Users are responsible for compliance with local laws and regulations regarding cryptocurrency usage.
 
 ---
 
